@@ -1,0 +1,11 @@
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\bin\Debug\net8.0\BadWordDetectorLibrary.deps.json
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\bin\Debug\net8.0\BadWordDetectorLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\bin\Debug\net8.0\BadWordDetectorLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.AssemblyInfoInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.AssemblyInfo.cs
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\refint\BadWordDetectorLibrary.dll
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\BadWordDetectorLibrary.pdb
+C:\Users\odellkc\OneDrive - Daikin Applied Americas\Documents\TimCoreyC#\BadWordDetectorAPP\BadWordDetectorLibrary\obj\Debug\net8.0\ref\BadWordDetectorLibrary.dll
